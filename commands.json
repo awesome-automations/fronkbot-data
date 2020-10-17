@@ -1,0 +1,30 @@
+[
+  {
+    "CommandName": "skalavala",
+    "CommandData": "Skalavala's [github repo](https://www.github.com/skalavala) and [his blog](https://www.awesome-automations.com/blog/)"
+  },
+  {
+    "CommandName": "RTFM",
+    "CommandData": "**RTFM** is a well known phrase, used when someone hasn't taken time to read the documentation. Please take time to Read The $%#@ Manual - author unknown."
+  },
+  {
+    "CommandName": "tinkerer",
+    "CommandData": "[His GitHub](https://github.com/DubhAd/Home-AssistantConfig/) and [his blog](https://ceard.tech/)"
+  },
+  {
+    "CommandName": "villhellm",
+    "CommandData": "[Link to Villhellm's github page](https://github.com/Villhellm)"
+  },
+  {
+    "CommandName": "tediore",
+    "CommandData": "It's dangerous to go alone! Check out my [GitHub](https://github.com/Tediore/My-HASS-config)."
+  },
+  {
+    "CommandName": "codewall",
+    "CommandData": "**Rule #6:** Please do not post codewalls (longer than ***15 lines***) - use sites such as https://hasteb.in/, https://paste.ubuntu.com/, or others.\n\n*Please take the time now to review all of the rules and references in <#331130181102206976>.*"
+  },
+  {
+    "CommandName": "atxbyea",
+    "CommandData": "You can find his config lurking [in the darkness](https://github.com/atxbyea/HA-Config)."
+  }
+]
