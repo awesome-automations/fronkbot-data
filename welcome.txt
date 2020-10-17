@@ -1,0 +1,7 @@
+// Any line that starts with '//' will be ignored. Feel free to add them as comments.
+These are the rules you **MUST** follow in order to get support from the members.
+
+Rules:
+
+1. Don't be a dick.
+2. See Rule # 1
